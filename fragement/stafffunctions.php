@@ -99,7 +99,7 @@ function begin($title)
              </ul>
          </li>
 
-         <li class="">
+        <!-- <li class="">
              <a class="has-arrow" href="#" aria-expanded="false">
                  <img src="back/img/menu-icon/2.svg" alt="">
                  <span>Gold Vault</span>
@@ -109,7 +109,7 @@ function begin($title)
                  <li><a href="gold">View </a></li>
                  
              </ul>
-         </li>
+         </li>-->
 
 
          <li class="">
